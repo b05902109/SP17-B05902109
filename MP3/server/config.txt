@@ -1,0 +1,4 @@
+MINE: mine.bin
+MINER: ../a_in ../a_out
+MINER: ../b_in ../b_out
+MINER: ../c_in ../c_out

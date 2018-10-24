@@ -1,0 +1,3 @@
+status                     # causes the server and all clients print messages
+dump /path/to/output/file  # a /path/to/output/file file is written
+quit                       # server exits normally

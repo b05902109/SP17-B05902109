@@ -1,0 +1,4 @@
+BOSS is mindful.                                      # connected by server, start computation
+I win a 1-treasure! 0129d0e20c610002cf6f6928b4ce1ee6  # a 1-treasure is founded by me
+I'm working on 9f2b728b6be550a8a2948af0a508b4d7       # caused by "status" command on server
+BOSS is at rest.                                      # server quits

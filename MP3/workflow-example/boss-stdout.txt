@@ -1,0 +1,1 @@
+best 3-treasure 0009d0e20c610002cf6f6928b4ce1ee6 in 10 bytes  # caused by "status" command on server

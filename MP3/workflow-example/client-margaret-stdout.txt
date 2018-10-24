@@ -1,0 +1,4 @@
+BOSS is mindful.                                         # connected by server, start computation
+Ada wins a 1-treasure! 0129d0e20c610002cf6f6928b4ce1ee6  # notified by server, celebrate Ada's wining
+I'm working on 875f57c310fa677104a54bfc9f51a72f          # caused by "status" command on server
+BOSS is at rest.                                         # server quits
