@@ -40,8 +40,7 @@ int recv_message(int conn_fd, void* message, size_t len) {
 }
 
 //used to receive complete header
-int complete_message_with_header(
-  int conn_fd, csiebox_protocol_header* header, void* result) {
+int complete_message_with_header(int conn_fd, csiebox_protocol_header* header, void* result) {
   memcpy(result, header->bytes, sizeof(csiebox_protocol_header));
   return recv(conn_fd,
               result + sizeof(csiebox_protocol_header),
